@@ -1,4 +1,5 @@
-# 03-fundamentos
+# Ask any Question
+Write any question in the input and wait for your answer (and it comes with a gif!).
 
 ## Project setup
 ```
@@ -22,3 +23,7 @@ npm run test:unit
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+## Credits
+Fernando Herrera - [Vue de cero a experto](https://www.udemy.com/course/vuejs-fh/)

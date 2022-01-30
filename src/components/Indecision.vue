@@ -2,6 +2,7 @@
   <div class="indecision-container">
       <p class="instructions">
           Write any question you want the answer to! <br>
+          (Possible answers: yes, no, maybe) <br>
           Remember to end your question with a question mark (?)
       </p>
 

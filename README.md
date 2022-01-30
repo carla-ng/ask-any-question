@@ -1,5 +1,6 @@
 # Ask any Question
 Write any question in the input and wait for your answer (and it comes with a gif!).
+Possible answers: yes, no, maybe.
 
 <br/>
 
@@ -22,11 +23,6 @@ npm run serve
 ### Compiles and minifies for production
 ```
 npm run build
-```
-
-### Run your unit tests
-```
-npm run test:unit
 ```
 
 ### Customize configuration
